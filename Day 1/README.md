@@ -21,4 +21,5 @@ Day one is pretty much just a tutorial so I'll run through the list of tasks
           - Open your browser development tools back up by inspecting the page. Go to storage options and find the `auth` cookie. It should be the only one there. Double-click the value and replace it with the updated hex value that represents the santa user.
           Answer - `7b22636f6d70616e79223a22546865204265737420466573746976616c20436f6d70616e79222c2022757365726e616d65223a2273616e7461227d`
 
-6. 
+6. Just click the selection sliders and the flag pops up at the bottom
+          Answer - `THM{MjY0Yzg5NTJmY2Q1NzM1NjBmZWFhYmQy}`
