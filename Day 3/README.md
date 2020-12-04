@@ -15,5 +15,5 @@ user 	12345
 Use the correct credentials to log in to the Santa Sleigh Tracker app. Don't forget to turn off Foxyproxy once BurpSuite has finished the attack!
 
 What is the flag?
-    - Answer: 
-    - Explanation: 
+    - Answer: `THM{885ffab980e049847516f9d8fe99ad1a}`
+    - Explanation: Follow the tutorial in the dossier and you will get the flag. Just make sure at the end to change the request username to `admin` and password to `12345` before forwarding it to the web server.
